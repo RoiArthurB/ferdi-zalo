@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Zalo",
   "main": "index.js",
-  "author": "RoiArthurB <contact@arthurbrugiere.fr>",
+  "author": "RoiArthurB <arthurbrugiere01@gmail.com>",
   "license": "MIT",
   "config": {
     "serviceURL": "https://chat.zalo.me/",
